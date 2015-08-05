@@ -1,0 +1,5 @@
+#Camera specifications
+c cam00 0 0 0 0 0 1 4 13.5
+c cam01 0 0 0 0 0 1 8 15
+#ray cast command
+r scene_01 512 512 1

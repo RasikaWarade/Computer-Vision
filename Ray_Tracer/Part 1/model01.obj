@@ -1,0 +1,7 @@
+#Spheres 
+s sphere1 -1  1 -8 1 255    0    0
+s spehre2  1  1 -10 1   0  255    0 
+s spehre3  1 -1 -12 1   0    0  255
+s spehre4 -1 -1 -14 1   0  255  255
+
+
